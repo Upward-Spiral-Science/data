@@ -1,0 +1,6 @@
+group_name,group_id,patient_count,males,min_age,max_age,avg_age,STDEV_age,caucasians,Brain_Trauma,PTSD,Bipolar,Depressed,Anxiety,Schizo_psycho,dementia,ADHD,epilepsy,Substance_abuse
+ADHD,1,125,58,18,73,38,16.12956412,98,0,0,0,0,0,0,0,125,0,0
+Bipolar,2,125,58,18,73,38,15.54904001,78,0,0,125,8,0,0,0,0,0,0
+Healthy_Controls,3,120,52,18,84,43,16.56464926,38,0,0,0,0,0,0,0,0,0,0
+Bipolar_Comorbid,4,489,230,18,79,36,14.88397105,346,235,89,489,85,350,42,27,0,6,155
+ADHD_Comorbid,5,489,332,18,84,38,15.30236257,353,244,39,0,197,304,10,25,489,5,93
