@@ -1,7 +1,7 @@
 
 
-your data comes from 
-docs.neurodata.io/kasthuri2015
+your data comes from **Network anatomy and in vivo physiology of visual cortical neurons** by Bock et. al. (2011)
+http://www.nature.com/nature/journal/v471/n7337/full/nature09802.html
 
 that means you can look at it here:
 http://viz.neurodata.io/bock11/
